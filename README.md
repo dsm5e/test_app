@@ -1,8 +1,7 @@
 # SportTimer - iOS Fitness App
 
 ## 📱 Демонстрация
-<!-- DEMO GIF PLACEHOLDER - Replace with your simulator video -->
-[![App Demo](demo.gif)](https://disk.yandex.ru/i/AAhtZ-ceU3QMew)
+https://disk.yandex.ru/i/AAhtZ-ceU3QMew
 
 Современное iOS приложение для отслеживания тренировок с таймером обратного отсчета и статистикой.
 
